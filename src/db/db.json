@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "633a1ae9-118b-4ad5-8682-ce898dea5388",
+    "name": "Walter Rohan",
+    "phone": "531-978-7803 x820",
+    "email": "Imani.Mitchell@gmail.com",
+    "job": "Investor Security Facilitator"
+  },
+  {
+    "id": "7247d64b-15da-4f58-bcdc-20eb7d6bfb00",
+    "name": "Carrie Rutherford",
+    "phone": "545-304-1677",
+    "email": "Gretchen77@yahoo.com",
+    "job": "Chief Data Developer"
+  },
+  {
+    "id": "704b3c66-315f-4a86-964a-f18175028c46",
+    "name": "Naomi Kilback",
+    "phone": "837.265.4663",
+    "email": "Osvaldo.Heathcote29@yahoo.com",
+    "job": "Human Identity Coordinator"
+  }
+]
